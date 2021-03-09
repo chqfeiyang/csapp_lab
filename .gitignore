@@ -1,3 +1,11 @@
+tars/*
+
+# proxylab
+proxylab/.noproxy/*
+proxylab/.proxy/*
+proxylab/proxy
+proxylab/tiny/tiny
+
 # Prerequisites
 *.d
 
